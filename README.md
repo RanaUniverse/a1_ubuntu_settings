@@ -15,19 +15,21 @@ This is My Favourite Optimized & Minimal interface settings for Ubuntu for easy 
 
 
 
+## 🚀 How to Use This Project? 🤔  
 
-## How to use this project? 🤔  
+### 🔹 1. Check Release Information  
+I am working on **different versions** of this project to improve stability and compatibility.  
+👉 [View Release Details & Updates](./zzz_extra_need/releases_information.md)  
 
+### 🔹 2. Install & Set Up Ubuntu Easily  
+After installing **Ubuntu OS** on a laptop or computer, use this script to set up everything **quickly and effortlessly**—even **offline**!  
 
-0. I am trying to make Releases of Different Versions of This Project. [Please Refer To This Section](./zzz_extra_need/releases_information.md) to know the informations about the releases and updates and so on.
+### 🔹 3. Get Started  
+1️⃣ **Clone the repository** or **download a release**.  
+2️⃣ **Run the installation script:**  
+   ```sh
+   ./installation_script.sh
 
-1. Just After Install The Ubuntu os in a laptop/computer i need to use this repo to setup from beginning easily. And it works also offline.
-
-1. Clone this repository or Find a appropriate Release to download.
-
-1. Run `./installation_script.sh`  
-
-1. Enjoy the Minimal, Optimized & Powerful Ubuntu experience! 🎉  
 
 
 
@@ -68,7 +70,9 @@ We can choose to download this file from the following link:
 
 ## What Does The Code Do? 🤔
 
-This project help me to setup Ubuntu os machine easily with the ```sudo apt install gnome-shell-extension-manager``` and then ```sudo apt install gnome-shell-extensions```. I mainly want one taskbar/panel in my desktop interface, so that i can easily navigate my mouse and use keyboard shortcut to access apps easily. It works like download the online extensions and then using the doncf file it will help to get back all the settings i changes in the extensions, settings, shortcuts and so on. Everything is there in the ```./installation_script.sh``` file which will do the work automtically.
+This project help me to setup Ubuntu os machine easily with the ```sudo apt install gnome-shell-extension-manager``` and then ```sudo apt install gnome-shell-extensions```.
+
+I mainly want one taskbar/panel in my desktop interface, so that i can easily navigate my mouse and use keyboard shortcut to access apps easily. It works like download the online extensions and then using the doncf file it will help to get back all the settings i changes in the extensions, settings, shortcuts and so on. Everything is there in the ```./installation_script.sh``` file which will do the work automtically.
 
 
 
