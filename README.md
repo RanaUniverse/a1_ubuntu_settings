@@ -24,12 +24,9 @@ I am working on **different versions** of this project to improve stability and 
 ### 🔹 2. Install & Set Up Ubuntu Easily  
 After installing **Ubuntu OS** on a laptop or computer, use this script to set up everything **quickly and effortlessly**—even **offline**!  
 
-### 🔹 3. Get Started  
-1️⃣ **Clone the repository** or **download a release**.  
-2️⃣ **Run the installation script:**  
-   ```sh
-   ./installation_script.sh
-
+### 🔹 3. Get Started 
+**Clone the repository** or **download a release**.  
+**Run the installation script:**:-   `./installation_script.sh`
 
 
 
