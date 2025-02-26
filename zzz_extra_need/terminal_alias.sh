@@ -14,8 +14,6 @@ echo "Some Terminal Alias is Creating Now."
 alias 3_apps='brave & ~/.apps_and_softwares/Telegram/Telegram & code & exit'
 alias 3='brave & ~/.apps_and_softwares/Telegram/Telegram & code & exit'
 
-alias 4='brave & ~/.apps_and_softwares/Telegram/Telegram & code & buckle & exit'
-
 # this below is for github
 alias github='brave https://github.com/RanaUniverse?tab=repositories & disown && exit'
 alias g='brave https://github.com/RanaUniverse?tab=repositories & disown && exit'

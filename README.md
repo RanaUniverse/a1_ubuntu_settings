@@ -19,7 +19,7 @@ This is My Favourite Optimized & Minimal interface settings for Ubuntu for easy 
 
 ### 🔹 1. Check Release Information  
 I am working on **different versions** of this project to improve stability and compatibility.  
-👉 [View Release Details & Updates](./zzz_extra_need/releases_information.md)  
+👉 [View Release Details & Updates](./releases_information.md)  
 
 ### 🔹 2. Install & Set Up Ubuntu Easily  
 After installing **Ubuntu OS** on a laptop or computer, use this script to set up everything **quickly and effortlessly**—even **offline**!  
