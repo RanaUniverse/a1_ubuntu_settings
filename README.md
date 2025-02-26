@@ -47,7 +47,7 @@ Currently, i am making this repository compatible with **Ubuntu 24.04 LTS**.
 
 **See the reference below to locate the correct download link on the official website:**
 <p align="center">
-  <img src="zzz_extra_need/images/ubuntu_24_04_lts_download_page.png" alt="Ubuntu 24.04 LTS Download Page" width="50%">
+  <img src="zzz_extra_need/images/ubuntu_24_04_lts_download_page.png" alt="Ubuntu 24.04 LTS Download Page" width="70%">
 </p>
 
 
